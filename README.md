@@ -1,6 +1,5 @@
-# product_layout_app
-
-A new Flutter application.
+# flutter-product-layout-app
+Flutter product layout app
 
 ## Getting Started
 
